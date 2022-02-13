@@ -20,3 +20,7 @@ Q-Learning: Fórmula matemática para escolher as melhores ações. Quanto maior
 Diferença temporal: Executa vários episódios. No final do treinamento, os valores devem estar armazenados, para avaliar a qualidade das ações. 
 
 <img src="img/QL5.png" alt="diferença temporal">
+
+
+Exercício:
+https://colab.research.google.com/drive/1Cwe3qKtdiKo6KVBqBBnnZJYgXSGnpeIA#scrollTo=basKM7zoqn9D
