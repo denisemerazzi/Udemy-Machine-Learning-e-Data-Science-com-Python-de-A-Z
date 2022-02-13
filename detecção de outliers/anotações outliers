@@ -1,0 +1,4 @@
+	DETECÇÃO DE OUTLIERS
+    
+a)	Outliers são valores anormais, fora do padrão (distantes da média). Podem ser causados pelo acaso, por erro de preenchimento (sem validação), fraudes 
+b)	Tratamento: Podem ser removidos (pode não ser uma boa ideia, porque altera o resultado), podem ser substituídos pela média (recomendado).
