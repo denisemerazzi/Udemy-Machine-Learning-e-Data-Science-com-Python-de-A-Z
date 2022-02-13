@@ -21,3 +21,4 @@ $ - termina com
 { m,n} – de m a n vezes
 ǀ - ou
 
+Exercícios: https://colab.research.google.com/drive/1jqndb2HOBk5VmGc6X5ZUT7VLKsrHllee
