@@ -20,6 +20,7 @@ c)	Algoritmos que funcionam como Agrupamento:
 a)	Define os centroides aleatoriamente (centros de um cluster) 
 b)	Cálculos com Kmeans: Para cada ponto na base de dados, calcular a distância para cada centroide e associar ao que estiver mais perto. Distância euclidiana (DE).
 
+
 <img src="img/1DE.png" alt="Fórmula Distribuição Euclidiana">
 
 X e y são os centroides. Quando menor o valor do DE, menor é a distância entre os valores, ou seja, são mais semelhantes.
