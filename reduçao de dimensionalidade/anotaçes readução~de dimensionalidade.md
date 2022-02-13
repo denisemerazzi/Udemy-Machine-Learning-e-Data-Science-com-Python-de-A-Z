@@ -11,4 +11,5 @@ O PCA e o LDA são utilizados quando os dados podem ser linearmente separáveis.
 
 c)	PCA Kernel: Utilizado para problemas mais complexos. É uma versão do PCA em que os dados são mapeados para uma dimensão maior (aumenta a dimensão) usando o kernel trick (para dados não linearmente separáveis). Após extrai-se os principais componentes.
 
+Exercícios: https://colab.research.google.com/drive/1RXVezMjR9SZ4Lw6Xpr_Jz5e5PUCTpnY7#scrollTo=56M9cafQHb42&uniqifier=7
 Obs: O código está me construção, logo vai ser revisado... existem erros na aplicação de algumas células do PCA e Kernel
